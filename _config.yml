@@ -3,19 +3,19 @@
 #------------------------------------------------------------
 
 # Domain for searches.
-domain: "https://gvwilson.github.io/new-lesson-example"
+domain: "https://statkclee.github.io/xwMOOC"
 
 # URL for repository.
-repo: "https://github.com/gvwilson/new-lesson-example"
+repo: "https://github.com/statkclee/xwMOOC"
 
 # Root URL for lesson below domain.
-root: "/new-lesson-example"
+root: "/xwMOOC"
 
 # Overall lesson title.
-title: "Lesson Example"
+title: "기계와 더불어 사는 한국인"
 
 # Contact email address.
-email: gvwilson@software-carpentry.org
+email: kwangchun.lee.7@gmail.com
 
 # What kind of thing is this ("workshop", "lesson")?
 kind: "lesson"
