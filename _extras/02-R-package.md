@@ -25,4 +25,4 @@ permalink: /02-R-package/
 
 ### [**R 팩키지(packages) **](http://r-pkgs.xwmooc.org/) 를 클릭하면 [http://r-pkgs.xwmooc.org/](http://r-pkgs.xwmooc.org/) 사이트에 연결됩니다.
 
-<img src="{{ site.root }}/fig/r-pkg.png" alt="R 팩키지" width="50%">
+<img src="{{ site.root }}/fig/r-pkg.png" alt="R 팩키지" width="30%">
