@@ -1,15 +1,19 @@
 ---
+layout: page
 title: "통계적 사고 - 파이썬을 이용한 탐색적 자료 분석"
-questions:
-- "전산 전공하신 분이 바라본 통계는 어떨까요?"
-objectives:
+permalink: /guide/
+---
+
+### 전산 전공하신 분이 바라본 통계는 어떨까요?
+
 - "전산 전공하신 분이 바라본 통계를 이해한다."
 - "통계를 배우는 방식이 하나가 아님을 확인한다."
-keypoints:
+
+### 핵심 요점
+
 - "파이썬 언어로 통계 기본 개념부터 심화 응용까지 실습한다."
 - "실제 데이터가 주어졌을 때 통계를 어떻게 적용하는지 이해한다."
 - "통계적 사고와 컴퓨팅 사고의 차이점에 대해 이해한다."
----
 
 > ## 통계의 또다른 이름 데이터 과학
 >
@@ -20,4 +24,4 @@ keypoints:
 
 ### [**통계적 사고 - 파이썬을 이용한 탐색적 자료 분석**](http://think-stat.xwmooc.org/) 를 클릭하면 [http://think-stat.xwmooc.org/](http://think-stat.xwmooc.org/) 사이트에 연결됩니다.
 
-<img src="{{ site.root }}/fig/think_stats.png" alt="통계적 사고" width="75%">
+<img src="{{ site.root }}/fig/think_stats.png" alt="통계적 사고" width="50%">
