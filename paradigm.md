@@ -38,7 +38,9 @@ permalink: /paradigm/
 >     - 폭포수 모형보다는 애자일 방식으로 개발한다.
 {: .callout}
 
-<img src="{{ site.root }}/fig/ct-unplugged-4th-paradigm.png" width="77%" alt="마이크로소프트 4번째 패러다임" />
+<div align="center">
+    <img src="{{ site.root }}/fig/ct-unplugged-4th-paradigm.png" width="50%" alt="마이크로소프트 4번째 패러다임" />
+</div>
 
 ### 2. 대한민국과 과학
 
@@ -46,7 +48,10 @@ permalink: /paradigm/
 
 경제발전단계에 따라, 교육 및 인적자원 개발 확대, 과학기술투자, 정보통신 인프라 확충을 통해 지식경제(Knowledge Economy)로의 전환을 이루고 괄목할만한 경제발전을 이룬 것으로 보고서는 적고 있다.
 
-<img src="{{ site.root }}/fig/ct-unplugged-korea-science.png" width="77%" alt="대한민국 경제성장에 지식 기여도" />
+<div align="center">
+    <img src="{{ site.root }}/fig/ct-unplugged-korea-science.png" width="60%" alt="대한민국 경제성장에 지식 기여도" />
+</div>
+
 
 > #### 페타바이트 데이터 저장장치 DIY 
 > 
@@ -62,7 +67,10 @@ permalink: /paradigm/
 
 카네기멜론 대학 쟈넷 윙(Wing) 교수가 **이론적 사고(Theoretical Thinking)**, **실험적 사고(Experimental Thinking)** 와 더불어 **[컴퓨팅 사고(Computational Thinking)](http://www.cs.cmu.edu/~CompThink/)** 가 향후 인간의 사고 체제를 지배하는 중추적인 역할을 할 것이라고 주장했다. 산업혁명 이후로 산업, 즉 공장에서 필요한 인력을 육성하고 공급하기 위해서 수학과 공학을 초중등 과정에서 집중적으로 교육하였으며 이러한 전통이 지금까지 이어져 국내 및 전세계 누구나 이론적 사고체계는 익숙하고 친숙하다. 통계가 근간을 이루는 실험적 사고는 스몰 데이터(Small Data)를 일부 초중등 과정에서 접목하고 있지만, 학교를 졸업하고 현실에서 많이 접하게 되고 필수적인 것임에도 통계에 대한 충분한 교육 및 훈련을 받지 못하고 사회에 진출하고 있는 것도 사실이다. 이러는 와중에 빅데이터(Big Data)가 10년도 되지 않는 짧은 시간에 성급 우리곁에 다가왔고, [추상화(Abstraction)와 자동화(Automation)](http://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)가 근간을 이루는 컴퓨팅 사고도 새로운 사고체계로 함께 받아들여지고 있다. 
 
-<img src="fig/ct-unplugged-4th-paradigm-korea.png" width="77%" alt="대한민국과 패러다임" />
+<div align="center">
+    <img src="{{ site.root }}/fig/ct-unplugged-4th-paradigm-korea.png" width="50%" alt="대한민국과 패러다임" />
+</div>
+
 
 쟈넷 윙 박사도 컴퓨팅 사고에서 기계학습(Machine Learning)의 중요성을 언급하며 기계학습이 거의 모든 과학영역에서 엄청난 혁신을 이루어 내고 있다고 평가하고 있다. 결국 수학적 사고, 통계적 사고, 컴퓨팅 사고가 수천년에 결쳐서 인간이 갖추어야할 사고 체계로 데이터 집약 과학과 기계학습/딥러닝이 누구나 배워야하는 필수 역량으로 자리잡아가고 있다. 
 
