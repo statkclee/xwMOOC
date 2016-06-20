@@ -1,83 +1,48 @@
 ---
 layout: page
-title: "Licenses"
+title: "라이선스"
 permalink: /license/
 ---
-## Instructional Material
 
-All Software Carpentry and Data Carpentry instructional material is
-made available under the [Creative Commons Attribution
-license][cc-by-human]. The following is a human-readable summary of
-(and not a substitute for) the [full legal text of the CC BY 4.0
-license][cc-by-legal].
+## 한국어 라이선스
 
-You are free:
+[xwMOOC](http://xwmooc.net/)에서 작업한 한국어 번역 저작물에는 크리에이티브 커먼즈 라이선스가 적용됩니다. 달리 명시하지 않는한 소프트웨어 카펜트리 작업을 포함하여 관련된 모든 것은 다음 라이선스를 준수합니다.
 
-* to **Share**---copy and redistribute the material in any medium or format
-* to **Adapt**---remix, transform, and build upon the material
+![CC-BY-SA](img/cc-by-sa.png)
 
-for any purpose, even commercially.
+### 한국어 이용자는 다음의 권리를 갖습니다:
 
-The licensor cannot revoke these freedoms as long as you follow the
-license terms.
+* **공유**---복제, 배포, 전시, 공연 및 공중송신 (포맷 변경도 포함)
+* **변경**---리믹스, 변형, 2차적 저작물의 작성
 
-Under the following terms:
+영리목적으로도 이용이 가능합니다.
 
-* **Attribution**---You must give appropriate credit (mentioning that
-  your work is derived from work that is Copyright © Software
-  Carpentry and, where practical, linking to
-  http://software-carpentry.org/), provide a [link to the
-  license][cc-by-human], and indicate if changes were made. You may do
-  so in any reasonable manner, but not in any way that suggests the
-  licensor endorses you or your use.
+아래 조건을 준수하는 한 이 라이선스는 취소되거나 실효되지 않습니다.
 
-**No additional restrictions**---You may not apply legal terms or
-technological measures that legally restrict others from doing
-anything the license permits.  With the understanding that:
+### 다음과 같은 조건을 따라야 합니다:
 
-Notices:
+* **저작권자표시**---적절한 출처"xwMOOC"와, 해당 라이선스 링크를 표시하고, 변경이 있는 경우 공지해야 합니다. 실무적으로 xwMOOC 링크 http://www.xwmooc.net를 포함해야 한다. 합리적인 방식으로 적용하면 되지만, 이용 허락권자가 귀하에게 권리를 부여한다거나 귀하의 사용을 허가한다는 내용을 나타내서는 안 됩니다.
 
-* You do not have to comply with the license for elements of the
-  material in the public domain or where your use is permitted by an
-  applicable exception or limitation.
-* No warranties are given. The license may not give you all of the
-  permissions necessary for your intended use. For example, other
-  rights such as publicity, privacy, or moral rights may limit how you
-  use the material.
+* **동일조건변경허락**---이 저작물을 리믹스, 변형하거나 2차적 저작물을 작성하고 그 결과물을 공유할 경우에는 원 저작물과 *동일한 조건의 CCL*을 적용하여야 합니다.
 
-## Software
+**추가제한금지** 이용자는 이 라이선스로 허용된 행위를 제한하는 법적 조건이나 기술적 조치를 
+부가해서는 안 됩니다.
 
-Except where otherwise noted, the example programs and other software
-provided by Software Carpentry and Data Carpentry are made available under the
-[OSI][osi]-approved
-[MIT license][mit-license].
+### 주의:
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+퍼블릭 도메인에 해당하는 저작물의 이용 또는 저작재산권의 제한사유에 해당하는 이용의 경우에는 이 라이선스를 따르지 않아도 됩니다.
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+이 라이선스는 아무런 보증을 하지 않습니다. 또한 저작물의 이용에 필요한 모든 허락이 포함되어 있지 않을 수도 있습니다. 
+예를 들어 퍼블리시티권, 프라이버시, 인격권 등 다른 권리에 따른 제한이 있을 수 있습니다.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## 소프트웨어 카펜트리(Software Carpentry)
 
-## Trademark
+[Software Carpentry](http://software-carpentry)에서 제작한 교재 및 제작 템플릿을 저작도구로 사용합니다.
+그리고, [소프트웨어 카펜트리 라이스선스](http://software-carpentry.org/license.html)를 준수합니다.
 
-"Software Carpentry" an "Data Carpentry" and their respective logos
-are registered trademarks of [NumFOCUS][numfocus].
+## 상표권(Trademark)
 
-[cc-by-human]: https://creativecommons.org/licenses/by/4.0/
-[cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
-[mit-license]: http://opensource.org/licenses/mit-license.html
+`xwMOOC`와 [xwMOOC](http://xwmooc.net/)로고는 엑스더블유무크 등록 상표입니다.
+"Software Carpentry" 와 "Data Carpentry" 명칭과 로고도 [NumFOCUS][numfocus]의 등록상표입니다.
+
 [numfocus]: http://numfocus.org/
-[osi]: http://opensource.org
