@@ -1,9 +1,14 @@
 ---
 title: "리보그 (러플의 후예)"
+questions:
+- "명령어 두개로 컴퓨터와 자유로운 대화를 어떻게 할 수 있을까?"
 objectives:
-- ""
+- "컴퓨터와 직접 의사소통한다."
+- "언플러그드에서 학습한 개념을 실제 코딩을 통해 구현한다."
 keypoints:
-- ""
+- "단 두개의 명령어를 가지고 컴퓨터와 대화를 한다."
+- "미국 남가주 초등 컴퓨터 교육에 대한 수준을 체험한다."
+- "프로그래밍을 통해 문제해결 능력을 습득한다."
 ---
 
 > ## 미래는 지금 여기 있습니다.
@@ -17,8 +22,6 @@ keypoints:
 
 ### **[프로그래밍과 문제해결](http://reeborg.xwmooc.org/)** 를 클릭하면 [http://reeborg.xwmooc.org/](http://reeborg.xwmooc.org/) 사이트에 연결됩니다.
 
-<img src="{{ site.root }}/fig/paradigm-shift.png" alt="리보그" width="75%">
-
 본 저작물은 미국 항공우주국(NASA) [JPL(제트 추진 연구소)](http://www.jpl.nasa.gov/) 연구원 안드레 카스타노가 미국 남가주 방과후 교육에 수년에 걸쳐 가다듬은 소프트웨어 및 문제해결 교육 과정입니다.
 
 현재 모습의 "프로그래밍과 문제해결"이 있기까지 리보그 저자 [André Roberge](http://aroberge.blogspot.kr/)의 노력과 더불어 [xwMOOC](http://www.xwmooc.net/)에서 [$100 달러 오픈컴퓨터](http://computer.xwmooc.org/)를 무료로 공개하여 소프트웨어를 활용한 문제해결 교육이 가능하게 구현하였다.
@@ -27,6 +30,7 @@ keypoints:
 
 현재도 소프트웨어는 정품을 꼭 사용하는 것으로 이해하는 사람들이 많다. 하지만, 2000년 이후 [GNU/리눅스](http://www.fsf.org/)로 대표되는 오픈 소프트웨어와 [아두이노](https://www.arduino.cc/)로 시작된 오픈 하드웨어, 그리고 저작물에 대한 [크리에이티브 커먼즈](http://cckorea.org/xe/main) 등 다양한 자유주의 운동이 확산되고 있으며, 프로그래밍 교육도 예외는 아니다.
 
+<img src="{{ site.root }}/fig/paradigm-shift.png" alt="리보그" width="75%">
 
 > ### 영어 원문 및 한국어 번역 사용허가권
 >
