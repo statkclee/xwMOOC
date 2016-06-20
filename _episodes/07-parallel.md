@@ -20,4 +20,7 @@ keypoints:
 
 ### [**R 병렬 프로그래밍**](http://parallel.xwmooc.org/) 을 클릭하면 [http://parallel.xwmooc.org/](http://parallel.xwmooc.org/) 사이트에 연결됩니다.
 
-<img src="{{ site.root }}/fig/performance-r-architecture.png" alt="병렬 프로그래밍" width="50%">
+<div align="center">
+    <img src="{{ site.root }}/fig/performance-r-architecture.png" alt="병렬 프로그래밍" width="60%">
+</div>
+

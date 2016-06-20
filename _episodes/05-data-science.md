@@ -20,5 +20,7 @@ keypoints:
 
 ### [**데이터 과학**](http://data-science.xwmooc.org/) 을 클릭하면 [http://data-science.xwmooc.org/](http://data-science.xwmooc.org/) 사이트에 연결됩니다.
 
+<div align="center">
+    <img src="{{ site.root }}/fig/data-science-countermeasure.png" alt="데이터 과학자 생산성 향상 전략" width="50%">
+</div>
 
-<img src="{{ site.root }}/fig/data-science-countermeasure.png" alt="데이터 과학자 생산성 향상 전략" width="50%">
