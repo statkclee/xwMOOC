@@ -21,7 +21,7 @@ email: kwangchun.lee.7@gmail.com
 kind: "lesson"
 
 # Which carpentry is this ("swc", "dc", "xwMOOC")?
-carpentry: "dc"
+carpentry: "xwMOOC"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -29,6 +29,7 @@ carpentry: "dc"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
+xwMOOC_site: "https://www.xwmooc.net"
 dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
