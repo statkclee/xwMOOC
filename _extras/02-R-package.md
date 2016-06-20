@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "R 팩키지(Package)"
-permalink: /guide/
+permalink: /02-R-package/
 ---
 
 ### 왜 R 팩키지가 재사용의 끝판왕인가?

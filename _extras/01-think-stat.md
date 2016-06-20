@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "통계적 사고 - 파이썬을 이용한 탐색적 자료 분석"
-permalink: /guide/
+permalink: /01-think-stat/
 ---
 
 ### 전산 전공하신 분이 바라본 통계는 어떨까요?
