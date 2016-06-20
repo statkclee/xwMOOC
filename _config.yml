@@ -20,8 +20,8 @@ email: gvwilson@software-carpentry.org
 # What kind of thing is this ("workshop", "lesson")?
 kind: "lesson"
 
-# Which carpentry is this ("swc", "dc")?
-carpentry: "dc"
+# Which carpentry is this ("swc", "dc", "xwMOOC")?
+carpentry: "xwMOOC"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
