@@ -24,6 +24,30 @@ permalink: /paradigm/
 - 새로운 게시 패러다임: 과학자가 점점 출판업자와 전시 책임자같은 큐레이터와 같이 되어감.
 
 
+> #### [그레이 법칙 (Gray's Laws)](http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part1_szalay.pdf)
+> 
+> 1. Scientific computing is becoming increasingly data intensive.
+>     - 과학 컴퓨팅이 점차 데이터 집약 중심으로 변모하고 있다.
+> 1. The solution is in a "scale-out" architecture.
+>     - 해답은 스케일-아웃 아키텍쳐로 범용 블록을 필요시 모듈화해서 확장하는 구조를 갖는다.
+> 1. Bring computations to the data, rather than data to the computations.
+>     - 데이터를 컴퓨터에 넣기 보다는 데이터에 컴퓨팅을 가져간다.
+> 1. Start the design with the "20 queries".
+>     - 20가지 질문으로 설계를 시작한다.
+> 1. Go from "working to working".
+>     - 폭포수 모형보다는 애자일 방식으로 개발한다.
+{: .callout}
+
+<img src="{{ site.root }}/fig/ct-unplugged-4th-paradigm.png" width="77%" alt="마이크로소프트 4번째 패러다임" />
+
+### 2. 대한민국과 과학
+
+세계은행(World Bank)과 한국개발연구원(KDI)은 약 2년여 기간의 공동연구를 통해 1960-2005 년간 한국 경제발전 과정에 관한 보고서를 출간했다. 경제성장이 지속되기 위해서는 생산성 증가가 대단히 중요하고, 1960년 이후 한국경제의 성공은 광의의 지식축적에 기인한 것으로 1960-2005년 사이 한국의 실질 1인당GDP의 75%가 광의의 지식축적에 기인한 것으로 분석했다.
+
+경제발전단계에 따라, 교육 및 인적자원 개발 확대, 과학기술투자, 정보통신 인프라 확충을 통해 지식경제(Knowledge Economy)로의 전환을 이루고 괄목할만한 경제발전을 이룬 것으로 보고서는 적고 있다.
+
+<img src="{{ site.root }}/fig/ct-unplugged-korea-science.png" width="77%" alt="대한민국 경제성장에 지식 기여도" />
+
 > #### 페타바이트 데이터 저장장치 DIY 
 > 
 > - [Petabytes on a budget: How to build cheap cloud storage (2009)](https://www.backblaze.com/blog/petabytes-> on-a-budget-how-to-build-cheap-cloud-storage/)  
@@ -32,35 +56,11 @@ permalink: /paradigm/
 {: .callout}
 
 
-#### [그레이 법칙 (Gray's Laws)](http://research.microsoft.com/en-us/collaboration/fourthparadigm/4th_paradigm_book_part1_szalay.pdf)
-
-1. Scientific computing is becoming increasingly data intensive.
-    - 과학 컴퓨팅이 점차 데이터 집약 중심으로 변모하고 있다.
-1. The solution is in a "scale-out" architecture.
-    - 해답은 스케일-아웃 아키텍쳐로 범용 블록을 필요시 모듈화해서 확장하는 구조를 갖는다.
-1. Bring computations to the data, rather than data to the computations.
-    - 데이터를 컴퓨터에 넣기 보다는 데이터에 컴퓨팅을 가져간다.
-1. Start the design with the "20 queries".
-    - 20가지 질문으로 설계를 시작한다.
-1. Go from "working to working".
-    - 폭포수 모형보다는 애자일 방식으로 개발한다.
-
-<img src="fig/ct-unplugged-4th-paradigm.png" width="77%" alt="마이크로소프트 4번째 패러다임" />
-
-### 2. 대한민국과 과학
-
-세계은행(World Bank)과 한국개발연구원(KDI)은 약 2년여 기간의 공동연구를 통해 1960-2005 년간 한국 경제발전 과정에 관한 보고서를 출간했다. 경제성장이 지속되기 위해서는 생산성 증가가 대단히 중요하고, 1960년 이후 한국경제의 성공은 광의의 지식축적에 기인한 것으로 1960-2005년 사이 한국의 실질 1인당GDP의 75%가 광의의 지식축적에 기인한 것으로 분석했다.
-
-경제발전단계에 따라, 교육 및 인적자원 개발 확대, 과학기술투자, 정보통신 인프라 확충을 통해 지식경제(Knowledge Economy)로의 전환을 이루고 괄목할만한 경제발전을 이룬 것으로 보고서는 적고 있다.
-
-<img src="fig/ct-unplugged-korea-science.png" width="77%" alt="대한민국 경제성장에 지식 기여도" />
-
-
 ### 3. 대한민국과 4번째 패러다임
 
 '13년 [창조경제의 개념과 성공조건](https://www.youtube.com/watch?v=ZaEihnQwR9s)에서 김광두 국가미래연구원장이 농업사회에서 산업사회를 넘어가고 산업사회에서 지식사회를 넘어가고 있으며 지금은 융합, 지식 창조산업이 중추 산업이 되며, 소프트웨어, 콘텐츠, 과학기술이 핵심 기반이 되며 창조경제를 견인할 것으로 내다봤다. 
 
-카네기멜론 대학 쟈넷 윙(Wing) 교수가 **이론적 사고(Theoretical Thinking)**, **실험적 사고(Experimental Thinking)**와 더불어 **[컴퓨팅 사고(Computational Thinking)](http://www.cs.cmu.edu/~CompThink/)** 가 향후 인간의 사고 체제를 지배하는 중추적인 역할을 할 것이라고 주장했다. 산업혁명 이후로 산업, 즉 공장에서 필요한 인력을 육성하고 공급하기 위해서 수학과 공학을 초중등 과정에서 집중적으로 교육하였으며 이러한 전통이 지금까지 이어져 국내 및 전세계 누구나 이론적 사고체계는 익숙하고 친숙하다. 통계가 근간을 이루는 실험적 사고는 스몰 데이터(Small Data)를 일부 초중등 과정에서 접목하고 있지만, 학교를 졸업하고 현실에서 많이 접하게 되고 필수적인 것임에도 통계에 대한 충분한 교육 및 훈련을 받지 못하고 사회에 진출하고 있는 것도 사실이다. 이러는 와중에 빅데이터(Big Data)가 10년도 되지 않는 짧은 시간에 성급 우리곁에 다가왔고, [추상화(Abstraction)와 자동화(Automation)](http://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)가 근간을 이루는 컴퓨팅 사고도 새로운 사고체계로 함께 받아들여지고 있다. 
+카네기멜론 대학 쟈넷 윙(Wing) 교수가 **이론적 사고(Theoretical Thinking)**, **실험적 사고(Experimental Thinking)** 와 더불어 **[컴퓨팅 사고(Computational Thinking)](http://www.cs.cmu.edu/~CompThink/)** 가 향후 인간의 사고 체제를 지배하는 중추적인 역할을 할 것이라고 주장했다. 산업혁명 이후로 산업, 즉 공장에서 필요한 인력을 육성하고 공급하기 위해서 수학과 공학을 초중등 과정에서 집중적으로 교육하였으며 이러한 전통이 지금까지 이어져 국내 및 전세계 누구나 이론적 사고체계는 익숙하고 친숙하다. 통계가 근간을 이루는 실험적 사고는 스몰 데이터(Small Data)를 일부 초중등 과정에서 접목하고 있지만, 학교를 졸업하고 현실에서 많이 접하게 되고 필수적인 것임에도 통계에 대한 충분한 교육 및 훈련을 받지 못하고 사회에 진출하고 있는 것도 사실이다. 이러는 와중에 빅데이터(Big Data)가 10년도 되지 않는 짧은 시간에 성급 우리곁에 다가왔고, [추상화(Abstraction)와 자동화(Automation)](http://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)가 근간을 이루는 컴퓨팅 사고도 새로운 사고체계로 함께 받아들여지고 있다. 
 
 <img src="fig/ct-unplugged-4th-paradigm-korea.png" width="77%" alt="대한민국과 패러다임" />
 
@@ -69,11 +69,11 @@ permalink: /paradigm/
 또한, ICBM(IoT, Cloud, Big Data, Machine Learning) 기반 스타트업이 큰 성공을 거두고 기업영역에서 영향력을 확대해감에 따라 **"사업이 과학화되는 현상"**이 가속화되고 있다. 
 
 
-> ### 빅데이터란? {.callout}
+> ### 빅데이터란?
 >
 > "Big Data is any data that is expensive to manage and hard to extract value from"
 > -Michael Franklin, UC Berkeley
-
+{: .callout}
 
 - 참고: [Doug Laney (2001), 3D Data Management: Controlling Data Volume, Velocity, and Variety](http://blogs.gartner.com/doug-laney/files/2012/01/ad949-3D-Data-Management-Controlling-Data-Volume-Velocity-and-Variety.pdf)  
 - 참고: [Microsoft Research (2009), The Fourth Paradigm: Data-Intensive Scientific Discovery](http://research.microsoft.com/en-us/collaboration/fourthparadigm/)
