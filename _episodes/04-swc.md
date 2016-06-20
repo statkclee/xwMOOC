@@ -1,7 +1,7 @@
 ---
 title: "소프트웨어 카펜트리"
 questions:
-- "소프트웨어는 사실 공학입니다."
+- "소프트웨어는 사실 공학이기도 합니다."
 objectives:
 - "과학컴퓨팅을 위한 최소 소프트웨어 공학을 이해한다."
 - "주변동료와 전세계 과학자 및 개발자와 협업할 수 있는 기본기를 갖춘다."
@@ -19,7 +19,7 @@ keypoints:
 {: .callout}
 
 
-### [**소프트웨어 카펜트리(Software Carpentry)**](http://swcarpentry.xwmooc.org/)** 를 클릭하면 [http://swcarpentry.xwmooc.org/](http://swcarpentry.xwmooc.org/) 사이트에 연결됩니다.
+### [**소프트웨어 카펜트리(Software Carpentry)**](http://swcarpentry.xwmooc.org/) 를 클릭하면 [http://swcarpentry.xwmooc.org/](http://swcarpentry.xwmooc.org/) 사이트에 연결됩니다.
 
 ## 대한민국 소프트웨어 카펜트리 
 
