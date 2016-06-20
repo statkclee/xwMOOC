@@ -24,4 +24,8 @@ permalink: /03-sympy/
 
 ### [**기호 수학(Symbolic Math)**](http://sympy.xwmooc.org/) 를 클릭하면 [http://sympy.xwmooc.org/](http://sympy.xwmooc.org/) 사이트에 연결됩니다.
 
-<img src="{{ site.root }}/fig/sympy-live.png" alt="심파이 기호수학" width="50%">
+<div align="center">
+    <img src="{{ site.root }}/fig/sympy-live.png" alt="심파이 기호수학" width="50%">
+</div>
+
+
