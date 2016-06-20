@@ -4,11 +4,11 @@ title: "라이선스"
 permalink: /license/
 ---
 
-## 한국어 라이선스
+### 한국어 라이선스
 
 [xwMOOC](http://xwmooc.net/)에서 작업한 한국어 번역 저작물에는 크리에이티브 커먼즈 라이선스가 적용됩니다. 달리 명시하지 않는한 소프트웨어 카펜트리 작업을 포함하여 관련된 모든 것은 다음 라이선스를 준수합니다.
 
-![CC-BY-SA](img/cc-by-sa.png)
+![CC-BY-SA]({{ site.root }}/fig/cc-by-sa.png)
 
 ### 한국어 이용자는 다음의 권리를 갖습니다:
 
@@ -28,19 +28,19 @@ permalink: /license/
 **추가제한금지** 이용자는 이 라이선스로 허용된 행위를 제한하는 법적 조건이나 기술적 조치를 
 부가해서는 안 됩니다.
 
-### 주의:
+#### 주의:
 
 퍼블릭 도메인에 해당하는 저작물의 이용 또는 저작재산권의 제한사유에 해당하는 이용의 경우에는 이 라이선스를 따르지 않아도 됩니다.
 
 이 라이선스는 아무런 보증을 하지 않습니다. 또한 저작물의 이용에 필요한 모든 허락이 포함되어 있지 않을 수도 있습니다. 
 예를 들어 퍼블리시티권, 프라이버시, 인격권 등 다른 권리에 따른 제한이 있을 수 있습니다.
 
-## 소프트웨어 카펜트리(Software Carpentry)
+### 소프트웨어 카펜트리(Software Carpentry)
 
 [Software Carpentry](http://software-carpentry)에서 제작한 교재 및 제작 템플릿을 저작도구로 사용합니다.
 그리고, [소프트웨어 카펜트리 라이스선스](http://software-carpentry.org/license.html)를 준수합니다.
 
-## 상표권(Trademark)
+### 상표권(Trademark)
 
 `xwMOOC`와 [xwMOOC](http://xwmooc.net/)로고는 엑스더블유무크 등록 상표입니다.
 "Software Carpentry" 와 "Data Carpentry" 명칭과 로고도 [NumFOCUS][numfocus]의 등록상표입니다.

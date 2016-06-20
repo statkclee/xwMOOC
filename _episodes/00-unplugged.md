@@ -1,7 +1,5 @@
 ---
 title: "컴퓨터 과학 언플러그드"
-teaching: 10
-exercises: 0
 objectives:
 - "컴퓨터 없이 컴퓨터 과학 기본 개념을 이해한다."
 - "4차 산업혁명을 목도하고 있는 비전산학과 전공자를 위한 교양교재"
@@ -19,17 +17,18 @@ keypoints:
 > 정보 불평등(Digital Divide)을 기회(Opportunites)로 만드는 계기가 대한민국 누구에게나 공평(Fair)하게 주여져야 합니다.
 {: .callout}
 
-### **[컴퓨터 과학 언플러그드 버젼 3.1](http://unplugged.xwmooc.org/)**
+### **[컴퓨터 과학 언플러그드 버젼 3.1](http://unplugged.xwmooc.org/)** 를 클릭하면 [http://unplugged.xwmooc.org/](http://unplugged.xwmooc.org/) 사이트에 연결됩니다.
 
-#### 한국어 번역 및 삽화 작업에 도움을 주신 분들
-
-##### 한국어 프로젝트 참여자 및 원저작자 정보
- 
-한국어 번역: 이광춘  
-한국어 삽화: 문춘경  
-저자: Tim Bell, Ian H. Witten, Mike Fellows  
-실험수업:  Robyn Adams and Jane McKenzie  
-삽화: Matt Powell  
+> #### 한국어 번역 및 삽화 작업에 도움을 주신 분들
+>
+> ##### 한국어 프로젝트 참여자 및 원저작자 정보
+>  
+> 한국어 번역: 이광춘  
+> 한국어 삽화: 문춘경  
+> 저자: Tim Bell, Ian H. Witten, Mike Fellows  
+> 실험수업:  Robyn Adams and Jane McKenzie  
+> 삽화: Matt Powell  
+{.testimonial}
 
 > ##### 한글 컴퓨터 과학 언플러그드 버젼
 >  
