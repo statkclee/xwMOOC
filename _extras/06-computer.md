@@ -8,7 +8,7 @@ permalink: /06-computer/
 
 
 <div align="center">
-    <img src="{{ site.root }}/fig/computer.png" alt="$100 오픈 컴퓨터" width="70%" />
+    <img src="{{ site.root }}/fig/computer.png" alt="$100 오픈 컴퓨터" width="50%" />
 </div>
 
 
