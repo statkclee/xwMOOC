@@ -8,11 +8,6 @@ layout: lesson
 
 컴퓨팅 사고력, 데이터 과학, 인공지능, 로봇/기계를 이해하는 사람과 그렇지 못한 사람간에 삶의 질 차이는 점점더 현격히 벌어질 것이다. 지금이라도 늦지 않았다. 늦었다는 것을 알아차렸을 때가 가장 빠른 시점이다.
 
-<div align="center">
-    <img src="{{ site.root }}/fig/ct-unplugged-4th-paradigm-korea.png" alt="컴퓨팅 사고" width="50%">
-</div>
-
-
 
 > ## 필히 알고 있어야 되는 것
 >
@@ -20,5 +15,11 @@ layout: lesson
 > * 수학을 문제 푸는 계산기로 이해하지 않고, 수학적 사고를 이해할 것.
 > * 기계와의 경쟁을 준비할 열정을 가질 것.
 {: .prereq}
+
+
+<div align="center">
+    <img src="{{ site.root }}/fig/ct-unplugged-4th-paradigm-korea.png" alt="컴퓨팅 사고" width="50%">
+</div>
+
 
 [contributing]: {{ site.repo }}/blob/gh-pages/CONTRIBUTING.md
