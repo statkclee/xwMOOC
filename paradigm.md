@@ -39,7 +39,7 @@ permalink: /paradigm/
 {: .callout}
 
 <div align="center">
-    <img src="{{ site.root }}/fig/ct-unplugged-4th-paradigm.png" width="50%" alt="마이크로소프트 4번째 패러다임" />
+    <img src="{{ site.root }}/fig/ct-unplugged-4th-paradigm.png" width="60%" alt="마이크로소프트 4번째 패러다임" />
 </div>
 
 ### 2. 대한민국과 과학
@@ -49,7 +49,7 @@ permalink: /paradigm/
 경제발전단계에 따라, 교육 및 인적자원 개발 확대, 과학기술투자, 정보통신 인프라 확충을 통해 지식경제(Knowledge Economy)로의 전환을 이루고 괄목할만한 경제발전을 이룬 것으로 보고서는 적고 있다.
 
 <div align="center">
-    <img src="{{ site.root }}/fig/ct-unplugged-korea-science.png" width="60%" alt="대한민국 경제성장에 지식 기여도" />
+    <img src="{{ site.root }}/fig/ct-unplugged-korea-science.png" width="55%" alt="대한민국 경제성장에 지식 기여도" />
 </div>
 
 
