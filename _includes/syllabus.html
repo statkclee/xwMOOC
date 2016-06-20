@@ -16,7 +16,7 @@
   {% for episode in site.episodes %}
     <tr>
       {% if multiday %}<td class="col-md-1">{% if episode.start %}Day {{ day }}{% endif %}</td>{% endif %}
-      <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
+      <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}   {% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
       <td class="col-md-3">
         <a href="{{ site.root }}{{ episode.url }}">{{ episode.title }}</a>
       </td>
@@ -36,9 +36,9 @@
   {% assign minutes = current | modulo: 60 %}
   <tr>
     {% if multiday %}<td></td>{% endif %}
-    <td class="col-md-1">{% if hours < 10 %}0{% endif %}{{ hours }}:{% if minutes < 10 %}0{% endif %}{{ minutes }}</td>
-    <td class="col-md-3">Finish</td>
-    <td class="col-md-7"></td>
+    <td class="col-md-1"></td>
+    <td class="col-md-3">...</td>
+    <td class="col-md-7">...</td>
   </tr>
   </table>
 </div>
