@@ -1,40 +1,22 @@
 ---
-layout: page
-title: 기계와 동행한 xwMOOC
+layout: lesson
 ---
 
+**xwMOOC** 
 
-## 학습목차 
+This lesson shows how to use the
+[Software Carpentry]({{ site.swc_site }}) and
+[Data Carpentry]({{ site.dc_site }}) lesson template.
+For guidelines on how to help improve our lessons and this template,
+please see [the contribution guidelines][contributing];
+for guidelines on how to set up your machine to preview changes locally,
+please see [the setup instructions](/setup/).
 
-1. [컴퓨팅 사고력](ct.html)
-
-> ### xwMOOC는 수학을 사랑합니다. {.prereq}
-> 
-> 2차 방정식 $a x^2 + b x + c = 0$ 에 대한 해답은 ...
+> ## 필히 알고 있어야 되는 것
 >
-> $$x = \frac{-b \pm \sqrt{b^2 - 4 a c}}{2 a}$$ 
+> * 모국어인 한국어를 듣고, 읽고, 쓰고, 말하기를 자유로이 할 것.
+> * 수학을 문제 푸는 계산기로 이해하지 않고, 수학적 사고를 이해할 것.
+> * 기계와의 경쟁을 준비할 열정을 가질 것.
+{: .prereq}
 
-
-### xwMOOC 오픈 교재
-
-- [컴퓨터 과학 언플러그드](http://unplugged.xwmooc.org)  
-- [리보그](http://reeborg.xwmooc.org)  
-     - [러플](http://rur-ple.xwmooc.org)  
-- [파이썬 거북이](http://swcarpentry.github.io/python-novice-turtles/index-kr.html)  
-- [정보과학을 위한 파이썬](http://python.xwmooc.org)  
-- [소프트웨어 카펜트리 5.3](http://swcarpentry.xwmooc.org)
-- [IoT 오픈 하드웨어(라즈베리 파이)](http://raspberry-pi.xwmooc.org/)
-    - [$100 오픈 컴퓨터](http://computer.xwmooc.org/)   
-    - [$100 오픈 슈퍼컴퓨터](http://computers.xwmooc.org/)
-- **데이터 과학**
-    - [R 데이터과학](http://data-science.xwmooc.org/)
-    - [R 팩키지](http://r-pkgs.xwmooc.org/)
-    - [R 도커](http://statkclee.github.io/r-docker/)
-    - [통계적 사고](http://think-stat.xwmooc.org/)
-    - [R 병렬 컴퓨팅](http://parallel.xwmooc.org/)    
-- **기계학습, 딥러닝, 인공지능**
-    - [기계학습](http://statkclee.github.io/ml)
-    - [고생대 프로젝트](http://statkclee.github.io/trilobite)
-- [기호 수학(Symbolic Math)](http://sympy.xwmooc.org/)
-- [선거와 투표](http://politics.xwmooc.org/)
-
+[contributing]: {{ site.repo }}/blob/gh-pages/CONTRIBUTING.md
