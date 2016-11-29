@@ -16,11 +16,20 @@ keypoints:
 
 [^master-algorithm-google-talk]: [Pedro Domingos - "The Master Algorithm", Talks at Google](https://www.youtube.com/watch?v=B8J4uefCQMc)
 
+<table>
+	<tr>
+		<td>Ted 강연 (The Quest for the Master Algorithm, Pedro Domingos)</td>
+		<td>마이크로소프트 연구소 (The Master Algorithm)</td>
+	</tr>
+	<tr>
+		<td> <iframe width="320" height="180" src="https://www.youtube.com/embed/qIZ5PXLVZfo" frameborder="0" allowfullscreen></iframe> </td>
+		<td> <iframe width="320" height="180" src="https://www.youtube.com/embed/8Ppqep-KAYI" frameborder="0" allowfullscreen></iframe> </td>
+	</tr>
+</table>
+
 | Ted 강연 (The Quest for the Master Algorithm, Pedro Domingos) | 마이크로소프트 연구소(The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World) |
 |---------------------------------------------------------------|----------------------------------------------------------------------|
-| <iframe width="320" height="180" src="https://www.youtube.com/embed/qIZ5PXLVZfo" frameborder="0" allowfullscreen></iframe> | <iframe width="320" height="180" src="https://www.youtube.com/embed/8Ppqep-KAYI" frameborder="0" allowfullscreen></iframe> |
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B8J4uefCQMc" frameborder="0" allowfullscreen></iframe>
+|<iframe width="320" height="180" src="https://www.youtube.com/embed/qIZ5PXLVZfo" frameborder="0" allowfullscreen></iframe> | <iframe width="320" height="180" src="https://www.youtube.com/embed/8Ppqep-KAYI" frameborder="0" allowfullscreen></iframe> |
 
 기계학습 알고리즘을 아마존 도서추천, 넥플릭스 영화추천, 
 스마트폰을 통해서 생성되는 다양하고 엄청난 양의 데이터를 통해 사람의 패턴을 학습하여 예측의 정도를 높여나가고 있다.
