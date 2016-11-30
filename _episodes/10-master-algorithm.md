@@ -36,7 +36,7 @@ keypoints:
 이에 반해 기계학습 알고리즘 접근법은 데이터와 출력결과를 넣게 되면 컴퓨터가 알고리즘을 만들어낸다. 
 알고리즘의 성능은 데이터의 양과 질에 달려있고, 얼마나 많은 학습을 반복하냐에 달려있다.
 
-<img src="fig/programming_machine_learning_comparison.png" alt="프로그래밍과 기계학습 비교" width="77%" />
+<img src="{{ site.root }}/fig/programming_machine_learning_comparison.png" alt="프로그래밍과 기계학습 비교" width="77%" />
 
 ## 프로그램을 개발하는 컴퓨터 [^slate-news-article]
 
