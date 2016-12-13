@@ -36,7 +36,7 @@ keypoints:
 이에 반해 기계학습 알고리즘 접근법은 데이터와 출력결과를 넣게 되면 컴퓨터가 알고리즘을 만들어낸다. 
 알고리즘의 성능은 데이터의 양과 질에 달려있고, 얼마나 많은 학습을 반복하냐에 달려있다.
 
-<img src="{{ site.root }}/fig/programming_machine_learning_comparison.png" alt="프로그래밍과 기계학습 비교" width="77%" />
+<img src="{{ site.root }}/fig/programming_machine_learning_comparison.png" alt="프로그래밍과 기계학습 비교" width="57%" />
 
 ## 프로그램을 개발하는 컴퓨터 [^slate-news-article]
 
@@ -52,6 +52,15 @@ keypoints:
 - 알고리즘의 세세한 부분에까지 제어하고 명세하는 것이 갖는 손실은 사람이 받아들인다.
 - 알고리즘은 되먹임 과정(feedback process)을 통해 변경되고 더 정교화되는 과정을 갖는다.
 
+## 기계학습 다섯 종족 
+
+| 종족                      |              문제                |                   해법                 |
+|---------------------------|----------------------------------|----------------------------------------|
+| 기호주의자(Symbolists)    | 지식구성(Knowledge Composition)  | 역연역법(Inverse deduction)            |
+| 연결주의자(Connectionists)| 신뢰 할당(Credit Assignment)     | 역전파(Backpropagation)                |
+| 진화론자(Evolutionaries)  | 구조발견(Structure Discovery)    | 유전자 프로그래밍(Genetic Programming) |
+| 베이지안(Bayesians)       | 불확실성(Uncertainty)            | 확률추론(Probabilistic Inference)      |
+| 유추론자(Analogizers)     | 유사성(Similarity)               | 커널기계(Kernel Machine)               |
 
 
 
