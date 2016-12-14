@@ -106,29 +106,30 @@ keypoints:
 #### 2.1.1. 역추론이란?
 
 - 간단한 계산 사례 
-    - 덧셈
+    - 덧셈  
    2    
 +  5    
-----     
-=  ?    
-    - 뺄셈
+`----`
+`=  ?`
+
+    - 뺄셈  
    2    
 +  ?    
-----     
-=  7    
+`----`
+`=  7`    
 
 - 논리학
-    - 연역법(Deduction)
+    - 연역법(Deduction)    
    소크라테스는 사람이다.    
-+  사람은 모두 죽는다.    
---------------------------    
-=     ?    
+`+  사람은 모두 죽는다.`
+`--------------------------`       
+`=     ?`    
+
     - 귀납법(Induction)    
 
-
    소크라테스는 사람이다.    
-+     ?    
---------------------------    
+`+     ?`  
+`--------------------------`       
 = 소크라테스는 죽는다.       
 
 
@@ -159,7 +160,7 @@ keypoints:
 
 #### 2.2.2. 성공사례
 
-<img src="{{ site.root }}/fig/google-cat-network-deep-neural-network.png" alt="구글 고양이 딥 뉴럴 네트워크" width="55%">
+<img src="{{ site.root }}/fig/google-cat-network-deep-neural-network.png" alt="구글 고양이 딥 뉴럴 네트워크" width="37%">
 
 
 ### 2.3. 진화론자
@@ -176,14 +177,14 @@ keypoints:
 생물의 진화를 모방한 진화 연산의 대표적인 기법으로, 실제 진화의 과정에서 많은 부분을 차용하였으며 변이(돌연변이, mutation), 
 교배 연산(crossover) 등을 활용한다.
 
-<img src="{{ site.root }}/fig/genetic-algorithm.gif" alt="유전자 알고리즘" width="57%">
+<img src="{{ site.root }}/fig/genetic-algorithm.gif" alt="유전자 알고리즘" width="37%">
 
 #### 2.3.2. 유전 프로그래밍(Genetic Programming)
 
 [유전 프로그래밍(Genetic programming)](https://ko.wikipedia.org/wiki/유전_프로그래밍)은 사용자가 원하는 작업을 수행하는 컴퓨터 프로그램을 찾아내는 방법이다. 
 생물학적 진화를 통해 착안한 알고리즘으로, 유전 알고리즘의 확장된 형태이고 기본적인 특성은 기존 유전 알고리즘 방식과 흡사하다
 
-<img src="{{ site.root }}/fig/genetic-programming.png" alt="유전자 프로그래밍" width="57%">
+<img src="{{ site.root }}/fig/genetic-programming.png" alt="유전자 프로그래밍" width="37%">
 
 
 #### 2.3.3. 성공사례 [^robot-baby]
@@ -204,7 +205,7 @@ keypoints:
 
 #### 2.4.1. 확률 추론 -- 베이즈 정리
 
-$\Pr(H|e)=\frac{\Pr(e|H)\Pr(H)}{\Pr(e)} \propto\mathcal L(H|e)\Pr(H)$ 
+$\Pr(H|e)=\frac{\Pr(e|H)\Pr(H)}{\Pr(e)}\propto\mathcalL(H|e)\Pr(H)$ 
 
 - 우도(Likelihood, $\Pr(e|H)$) : 가정이 참이라고 가정할 때 증거 데이터의 가능성은 얼마나 되나?
 - 사전 확률(Prior, $\Pr(H)$) : 증거 데이터를 관측하기 전에 가설의 가능성은 얼마나 되나?
@@ -215,7 +216,7 @@ $\Pr(H|e)=\frac{\Pr(e|H)\Pr(H)}{\Pr(e)} \propto\mathcal L(H|e)\Pr(H)$
 
 전자우편이 왔을 때 특정 단어($W$)가 스팸일 확률.
 
-$\Pr(S|W) = \frac{\Pr(W|S) \cdot \Pr(S)}{\Pr(W|S) \cdot \Pr(S) + \Pr(W|H) \cdot \Pr(H)}$
+$\Pr(S|W)=\frac{\Pr(W|S) \cdot \Pr(S)}{\Pr(W|S) \cdot \Pr(S) + \Pr(W|H) \cdot \Pr(H)}$
 
 - $\Pr(S|W)$ : 특정 단어가 전자우편에 포함되었을 때 전자우편이 스팸일 확률.
 - $\Pr(S)$ : 전자우편이 스팸일 사전 확률.
