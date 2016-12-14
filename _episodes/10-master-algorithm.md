@@ -108,27 +108,26 @@ keypoints:
 - 간단한 계산 사례 
     - 덧셈  
    2    
-+  5    
-`----`
+`+  5`    
+`----`    
 `=  ?`
 
     - 뺄셈  
    2    
-+  ?    
-`----`
+`+  ?`    
+`----`    
 `=  7`    
 
 - 논리학
     - 연역법(Deduction)    
    소크라테스는 사람이다.    
-`+  사람은 모두 죽는다.`
-`--------------------------`       
+`+  사람은 모두 죽는다.`    
+`--------------------------`           
 `=     ?`    
 
     - 귀납법(Induction)    
-
    소크라테스는 사람이다.    
-`+     ?`  
+`+     ?`    
 `--------------------------`       
 = 소크라테스는 죽는다.       
 
@@ -241,11 +240,11 @@ $k-$최근접 이웃 알고리즘(또는 줄여서 k-NN)은 분류나 회귀에 
 [^wiki-knn]: [k-최근접 이웃 알고리즘](https://ko.wikipedia.org/wiki/K-최근접_이웃_알고리즘)
 
 
-<img src="{{ site.root }}/fig/knn.png" alt="최근접 이웃 알고리즘" width="55%">
+<img src="{{ site.root }}/fig/knn.png" alt="최근접 이웃 알고리즘" width="35%">
 
 #### 2.5.2. 커널 기계(Kernel Machine) - SVM
 
-<img src="{{ site.root }}/fig/svm.png" alt="SVM" width="55%">
+<img src="{{ site.root }}/fig/svm.png" alt="SVM" width="35%">
 
 
 ## 3. 활용분야
