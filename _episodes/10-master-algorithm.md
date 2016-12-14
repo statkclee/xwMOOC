@@ -27,7 +27,11 @@ keypoints:
 	</tr>
 </table>
 
-## 기계학습 알고리즘과 프로그래밍 비교
+지금 성공적으로 평가받는 기업들은 영화추천, 제품추천, 구인/구직 추천, 음악 추천등 한가지 혹은 몇가지 추천 혹은 예측 작업을 잘하는 알고리즘이다.
+앞으로 사람들은 더욱 많은 알고리즘으로 둘러 싸일 것이고, 종류도 많고 수도 제법되는 추천 알고리즘은 서로 협업하고, 경쟁하며 모형/알고리즘이 지배하는 세상이 도래할 것이다.
+
+
+## 1. 기계학습 알고리즘과 프로그래밍 비교
 
 동일한 문제를 놓고 기계학습 알고리즘을 적용하는 방법과 기존 프로그래밍 기법을 활용한 방법은 다음과 같은 차이가 난다.
 기존 프로그래밍 방법은 데이터와 알고리즘을 넣어 컴퓨터가 계산을 수행하고 나서 출력결과를 만들어 내는 과정으로 
@@ -49,20 +53,102 @@ keypoints:
 가장 큰 이유는 세세한 부분까지 전체적으로 제어되는 알고리즘은 확장성이 떨어지는데 있다. 이를 극복하는 알고리즘은 다음과 같은 특징을 갖는다.
 
 - 참/거짓 부울 로직보다 확률을 활용
-- 알고리즘의 세세한 부분에까지 제어하고 명세하는 것이 갖는 손실은 사람이 받아들인다.
-- 알고리즘은 되먹임 과정(feedback process)을 통해 변경되고 더 정교화되는 과정을 갖는다.
+- 알고리즘의 세세한 부분에까지 제어하고 명세하는 것이 갖는 손실을 인정하고 받아들인다.
+- 알고리즘은 되먹임 과정(feedback process)을 통해 변경되고 더 정교화되는 과정을 반복한다.
 
-## 기계학습 다섯 종족 
+<img src="fig/master-algorithm-framework.png" alt="알고리즘 틀" width="57%" />
 
-| 종족                      |              문제                |                   해법                 |
-|---------------------------|----------------------------------|----------------------------------------|
-| 기호주의자(Symbolists)    | 지식구성(Knowledge Composition)  | 역연역법(Inverse deduction)            |
-| 연결주의자(Connectionists)| 신뢰 할당(Credit Assignment)     | 역전파(Backpropagation)                |
-| 진화론자(Evolutionaries)  | 구조발견(Structure Discovery)    | 유전자 프로그래밍(Genetic Programming) |
-| 베이지안(Bayesians)       | 불확실성(Uncertainty)            | 확률추론(Probabilistic Inference)      |
-| 유추론자(Analogizers)     | 유사성(Similarity)               | 커널기계(Kernel Machine)               |
+## 2. 기계학습 다섯 종족 
+
+기계학습에 많이 활용되는 알고리즘은 크게 5개로 분류되는데 각 알고리즘은 결국 해결하고자 하는 문제를 정의하는 표현 부분, 
+알고지즘으로 평가하는 부분, 그리고 최적화하는 부분으로 나눠진다.
+
+| 종족                      |              문제                |                   해법                 |            기원                    |
+|---------------------------|----------------------------------|----------------------------------------|------------------------------------|
+| 기호주의자(Symbolists)    | 지식구성(Knowledge Composition)  | 역연역법(Inverse deduction)            | 논리, 철학                         |
+| 연결주의자(Connectionists)| 신뢰 할당(Credit Assignment)     | 역전파(Backpropagation)                | 신경과학(Nuuroscience)             |
+| 진화론자(Evolutionaries)  | 구조발견(Structure Discovery)    | 유전자 프로그래밍(Genetic Programming) | 진화 생명과학(Evolutionary Biology)|
+| 베이지안(Bayesians)       | 불확실성(Uncertainty)            | 확률추론(Probabilistic Inference)      | 통계학                             |
+| 유추론자(Analogizers)     | 유사성(Similarity)               | 커널 기계(Kernel Machine)              | 심리학                             |
+
+### 2.1. 기호주의자
+
+- 주요 인물
+    - Tom Mitchell
+    - Steve Muggleton
+    - Ross Quinlan
+
+#### 2.1.1. 역추론이란?
+
+- 간단한 계산 사례 
+    - 덧셈
+~~~
+   2
++  5
+----  
+=  ?
+~~~
+{: .r}
+
+    - 뺄셈
+~~~
+   2
++  ?
+----  
+=  7
+~~~
+{: .r}
+
+- 논리학
+    - 연역법(Deduction)
+~~~
+   소크라테스는 사람이다.
++  사람은 모두 죽는다.
+--------------------------
+=     ?
+~~~
+{: .r}
+    - 귀납법(Induction)
+~~~
+   소크라테스는 사람이다.
++     ?
+--------------------------
+= 소크라테스는 죽는다.   
+~~~
 
 
+#### 2.1.2. 성공사례
+
+- 로봇 과학자 이브(eve) [^robot-scientist-eve]: 말라리아 치료제 개발, 맨체스터 대학 Ross King 박사.
+
+[^robot-scientist-eve]: [Robot Scientist Discovers Potential Malaria Drug](https://www.scientificamerican.com/article/robot-scientist-discovers-potential-malaria-drug/)
+
+<img src="{{ site.root }}/fig/symbolist-robot-scientiest-eve.jpg" alt="로봇 과학자 이브" width="55%">
+
+
+### 2.2. 연결주의자 
+
+- 주요 인물
+    - Yann LeCun
+    - Geoff Hinton
+    - Yoshua Bengio
+
+
+#### 2.2.1. 신경망이란?
+
+<img src="{{ site.root }}/fig/neural_network_framework.png" alt="신경망" width="75%">
+
+[**시간적 기여도 할당문제(temporal credit assignment problem)**](https://margaretsoftware.wordpress.com/2015/12/18/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B4%80%EB%A0%A8-%EC%9A%A9%EC%96%B4/)는 
+일련의 행동들이 모두 끝난 후에야 궤환신호를 얻을 수 있는 상황에서 
+그때까지 수행된 일련의 행동들 중 어떤 행동에 기여도(credit)를 주고 또 어떤 행동에 벌점(blame) 을 줄 것인지 결정하는 것을 말한다. 
+
+#### 2.2.2. 성공사례
+
+<img src="{{ site.root }}/fig/google-cat-network-deep-neural-network.png" alt="구글 고양이 딥 뉴럴 네트워크" width="55%">
+
+
+
+### 1. 
 
 기계학습 알고리즘을 아마존 도서추천, 넥플릭스 영화추천, 
 스마트폰을 통해서 생성되는 다양하고 엄청난 양의 데이터를 통해 사람의 패턴을 학습하여 예측의 정도를 높여나가고 있다.
@@ -99,8 +185,12 @@ keypoints:
 - Analogist: SVM, 
     - 제품 추천
 
+## 활용분야
 
-지금 성공적으로 평가받는 기업들은 영화추천, 제품추천, 구인/구직 추천, 음악 추천등 한가지 혹은 몇가지 추천 혹은 예측 작업을 잘하는 알고리즘이다.
-앞으로 사람들은 더욱 많은 알고리즘으로 둘러 싸일 것이고, 종류도 많고 수도 제법되는 추천 알고리즘은 서로 협업하고, 경쟁하며 모형/알고리즘이 지배하는 세상이 도래할 것이다.
+- 가정용 로봇
+- 암 치료
+- 360 $^{\circ}$ 전방위 추천
+- 월드 와이드 웹을 두뇌로 확장
+
 
 
