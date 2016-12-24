@@ -4,6 +4,26 @@ title: 발상의 전환
 permalink: /paradigm/
 ---
 
+### 0. 코딩 교육
+
+<table>
+	<tr>
+		<td>오바마 대통령의 컴퓨터 교육 주간 행사 지원 연설</td>
+		<td>대부분의 학교에서 가르치지 않는 것: code.org</td>
+		<td>President Obama does the Hour of Code</td>
+	</tr>
+	<tr>
+		<td> <iframe width="320" height="180" src="https://www.youtube.com/embed/S7J_n_6-Tos" frameborder="0" allowfullscreen></iframe> </td>
+		<td> <iframe width="320" height="180" src="https://www.youtube.com/embed/lHZxmcP-CHI" frameborder="0" allowfullscreen></iframe> </td>
+		<td> <iframe width="320" height="180" src="https://www.youtube.com/embed/AI_dayIQWV4" frameborder="0" allowfullscreen></iframe> </td>
+	</tr>
+</table>
+
+- CODE.org: [https://code.org/](https://code.org/)
+- 라즈베리 파이: [https://www.raspberrypi.org/](https://www.raspberrypi.org/)
+- 네이버 소프트웨어야 놀자 : [http://www.playsw.or.kr/main](http://www.playsw.or.kr/main)
+- [소프트웨어 카펜트리](https://software-carpentry.org/): [워크샵 행사](https://software-carpentry.org/workshops/past/)
+
 ### 1. 짐 그레이 4번째 패러다임
 
 고 [짐 그레이](https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)) 박사 바다에서 실종되기 전에 주장했고, 사후 책으로 출간되어 인터넷에서 무료로 다운로드 받아 읽어 볼 수 있다.  
