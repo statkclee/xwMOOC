@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "선거와 투표 - 데이터 과학자가 바라본 20대 총선"
+title: "선거와 투표 - 데이터 과학자가 바라본 선거"
 permalink: /04-voting/
 ---
 
