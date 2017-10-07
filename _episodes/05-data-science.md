@@ -18,7 +18,7 @@ keypoints:
 {: .callout}
 
 
-### [**데이터 과학**](http://data-science.xwmooc.org/) 을 클릭하면 [http://data-science.xwmooc.org/](http://data-science.xwmooc.org/) 사이트에 연결됩니다.
+### [**데이터 과학**](http://statkclee.github.io/data-science/) 을 클릭하면 자세한 사항을 확인할 수 있다.
 
 <div align="center">
     <img src="{{ site.root }}/fig/data-science-countermeasure.png" alt="데이터 과학자 생산성 향상 전략" width="50%">

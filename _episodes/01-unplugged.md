@@ -19,7 +19,7 @@ keypoints:
 > 정보 불평등(Digital Divide)을 기회(Opportunites)로 만드는 계기가 대한민국 누구에게나 공평(Fair)하게 주여져야 합니다.
 {: .callout}
 
-### **[컴퓨터 과학 언플러그드 버젼 3.1](http://unplugged.xwmooc.org/)** 를 클릭하면 [http://unplugged.xwmooc.org/](http://unplugged.xwmooc.org/) 사이트에 연결됩니다.
+### **[컴퓨터 과학 언플러그드 버젼 3.1](http://statkclee.github.io/website-csunplugged/)** 를 클릭하면 자세한 내용을 확인할 수 있다.
 
 > #### 한국어 번역 및 삽화 작업에 도움을 주신 분들
 >

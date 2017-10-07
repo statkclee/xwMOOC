@@ -18,7 +18,7 @@ keypoints:
 {: .callout}
 
 
-### [**R 병렬 프로그래밍**](http://parallel.xwmooc.org/) 을 클릭하면 [http://parallel.xwmooc.org/](http://parallel.xwmooc.org/) 사이트에 연결됩니다.
+### [**R 병렬 프로그래밍**](http://statkclee.github.io/parallel-r/) 을 클릭하면 자세한 내용을 확인할 수 있다.
 
 <div align="center">
     <img src="{{ site.root }}/fig/performance-r-architecture.png" alt="병렬 프로그래밍" width="60%">

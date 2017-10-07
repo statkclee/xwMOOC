@@ -19,7 +19,7 @@ keypoints:
 {: .callout}
 
 
-### [**소프트웨어 카펜트리(Software Carpentry)**](http://swcarpentry.xwmooc.org/) 를 클릭하면 [http://swcarpentry.xwmooc.org/](http://swcarpentry.xwmooc.org/) 사이트에 연결됩니다.
+### [**소프트웨어 카펜트리(Software Carpentry)**](http://statkclee.github.io/swcarpentry-version-5-3-new/) 를 클릭하면 [자세한 내용을 확인할 수 있다.
 
 ## 대한민국 소프트웨어 카펜트리 
 

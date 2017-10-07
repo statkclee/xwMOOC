@@ -4,7 +4,7 @@ title: "오픈 컴퓨터 - 라즈베리파이"
 permalink: /05-rpi/
 ---
 
-### [**오픈 컴퓨터 - 라즈베리파이**](http://raspberry-pi.xwmooc.org/) 를 클릭하면 [http://raspberry-pi.xwmooc.org/](http://raspberry-pi.xwmooc.org/) 사이트에 연결됩니다.
+### [**오픈 컴퓨터 - 라즈베리파이**](https://statkclee.github.io/raspberry-pi/) 를 클릭하면 자세한 사항을 확인할 수 있다.
 
 > #### 라즈베리 파이 구성 
 >

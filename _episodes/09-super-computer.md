@@ -18,7 +18,7 @@ keypoints:
 {: .callout}
 
 
-### [**xwMOOC (오픈) 슈퍼 컴퓨터**](http://computers.xwmooc.org/) 을 클릭하면 [http://computers.xwmooc.org/](http://computers.xwmooc.org/) 사이트에 연결됩니다.
+### [**xwMOOC (오픈) 슈퍼 컴퓨터**](https://statkclee.github.io/hpc/) 을 클릭하면 자세한 사항을 확인할 수 있습니다.
 
 <div align="center">
     <img src="{{ site.root }}/fig/rpi-supercomputer-intro.png" alt="오픈 슈퍼 컴퓨터" width="60%">

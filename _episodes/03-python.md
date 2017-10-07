@@ -18,7 +18,7 @@ keypoints:
 {: .callout}
 
 
-### [**정보교육을 위한 파이썬 - 데이터 과학자로의 여정**](http://python.xwmooc.org/)** 를 클릭하면 [http://python.xwmooc.org/](http://python.xwmooc.org/) 사이트에 연결됩니다.
+### [**정보교육을 위한 파이썬 - 데이터 과학자로의 여정**](https://statkclee.github.io/pythonlearn-kr/)** 를 클릭하면 자세한 사항을 학습할 수 있다.
 
 
 **대한민국 전 국민을 단돈 천원($1) 정보교육으로 행복한 세상 만들기**

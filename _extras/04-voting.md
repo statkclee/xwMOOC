@@ -11,7 +11,7 @@ permalink: /04-voting/
 {: .callout}
 
 
-### [**선거와 투표**](http://politics.xwmooc.org/) 를 클릭하면 [http://politics.xwmooc.org/](http://politics.xwmooc.org/) 사이트에 연결됩니다.
+### [**선거와 투표**](http://statkclee.github.io/politics/) 를 클릭하면 자세한 사항을 확인할 수 있다.
 
 
 더불어민주당의 경우 경제민주화를 제일 선거공약으로 내새울 정도로 정치와 경제가 밀접한 관련이 있고, 
