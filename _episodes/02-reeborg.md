@@ -20,13 +20,15 @@ keypoints:
 
 
 
-### **[프로그래밍과 문제해결](http://reeborg.xwmooc.org/)** 를 클릭하면 [http://reeborg.xwmooc.org/](http://reeborg.xwmooc.org/) 사이트에 연결됩니다.
+### **[프로그래밍과 문제해결](https://statkclee.github.io/code-perspectives/)** 를 클릭하면 자세한 사항을 확인할 수 있따.
 
-본 저작물은 미국 항공우주국(NASA) [JPL(제트 추진 연구소)](http://www.jpl.nasa.gov/) 연구원 안드레 카스타노가 미국 남가주 방과후 교육에 수년에 걸쳐 가다듬은 소프트웨어 및 문제해결 교육 과정입니다. [^rur-ple]
+본 저작물은 미국 항공우주국(NASA) [JPL(제트 추진 연구소)](http://www.jpl.nasa.gov/) 연구원 안드레 카스타노가 미국 남가주 방과후 교육에 수년에 걸쳐 가다듬은 소프트웨어 및 문제해결 교육 과정입니다. 
 
-[^rur-ple]: [러플(RUR-PLE), 파이썬 배우기- 러플로 아이들이 놀기!](http://statkclee.github.io/rur-ple/)
+- [러플(RUR-PLE), 파이썬 배우기- 러플로 아이들이 놀기!](http://statkclee.github.io/rur-ple/)
+- [리보그 세항 - 리브그와 함께 파이썬 배우기](http://reeborg.ca/docs/ko/index.html)
 
-현재 모습의 "프로그래밍과 문제해결"이 있기까지 리보그 저자 [André Roberge](http://aroberge.blogspot.kr/)의 노력과 더불어 [xwMOOC](http://www.xwmooc.net/)에서 [$100 달러 오픈컴퓨터](http://computer.xwmooc.org/)를 무료로 공개하여 소프트웨어를 활용한 문제해결 교육이 가능하게 구현하였다.
+
+현재 모습의 "프로그래밍과 문제해결"이 있기까지 리보그 저자 [André Roberge](http://aroberge.blogspot.kr/)의 노력과 더불어 [xwMOOC](https://statkclee.github.io/xwMOOC/)에서 [$100 달러 오픈컴퓨터](https://statkclee.github.io/one-page/)를 무료로 공개하여 소프트웨어를 활용한 문제해결 교육이 가능하게 구현하였다.
 
 특히, 1980년대 IBM 호환 개인용 컴퓨터가 보급되면서 베이직 언어도 많이 사용되었지만, 이후 컴퓨팅 패러다임이 변화하면서 소프트웨어를 상업적으로 많이 활용하면서 빌게이츠를 비롯한 소프트웨어 갑부가 생겨나서, 소프트웨어를 생산하는 일부 개발자와 돈 주고 소프트웨어를 사용하는 대다수 사람으로 나눠지게 되었다. 
 

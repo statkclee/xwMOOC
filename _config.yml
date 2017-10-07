@@ -29,7 +29,7 @@ carpentry: "xwMOOC"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
-xwMOOC_site: "https://www.xwmooc.net"
+xwMOOC_site: "https://statkclee.github.io/xwMOOC"
 dc_site: "https://datacarpentry.org"
 swc_github: "https://github.com/swcarpentry"
 swc_site: "https://software-carpentry.org"
