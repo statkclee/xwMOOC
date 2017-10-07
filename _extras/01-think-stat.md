@@ -22,6 +22,6 @@ permalink: /01-think-stat/
 {: .callout}
 
 
-### [**통계적 사고 - 파이썬을 이용한 탐색적 자료 분석**](http://think-stat.xwmooc.org/) 를 클릭하면 [http://think-stat.xwmooc.org/](http://think-stat.xwmooc.org/) 사이트에 연결됩니다.
+### [**통계적 사고 - 파이썬을 이용한 탐색적 자료 분석**](https://statkclee.github.io/think-stat/) 를 클릭하면 자세한 내용을 확인할 수 있습니다.
 
 <img src="{{ site.root }}/fig/think_stats.png" alt="통계적 사고" width="30%">
