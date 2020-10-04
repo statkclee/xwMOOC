@@ -42,7 +42,6 @@ permalink: /license/
 
 ### 상표권(Trademark)
 
-`xwMOOC`와 [xwMOOC](http://xwmooc.net/)로고는 엑스더블유무크 등록 상표입니다.
 "Software Carpentry" 와 "Data Carpentry" 명칭과 로고도 [NumFOCUS][numfocus]의 등록상표입니다.
 
 [numfocus]: http://numfocus.org/
